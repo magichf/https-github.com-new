@@ -207,7 +207,7 @@ $P(k)$ 抑制 & 在 $k \sim 1$ Mpc$^{-1}$ 處出現截止 & 無截止或 $k_J > 
 \end{document}
 
 
-<img width="1260" height="2800" alt="1000021436" src="https://github.com/user-attachments/assets/e0386ee5-5a2c-445d-b12a-1eb9b8a0aad9" />
+
 <img width="1256" height="1204" alt="1000021437" src="https://github.com/user-attachments/assets/2344439e-30ce-4fe5-9fdb-4eed332de4da" />
 <img width="1168" height="784" alt="1000021438" src="https://github.com/user-attachments/assets/faa759e7-5b88-47b8-bebb-473e91c9b337" />
 <img width="1168" height="784" alt="1000021439" src="https://github.com/user-attachments/assets/a88ddb5e-e03f-4143-8f06-45f715aaa80c" />
