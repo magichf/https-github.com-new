@@ -1,6 +1,8 @@
-<img width="1168" height="784" alt="1000021438" src="https://github.com/user-attachments/assets/c9d5cd9b-0a61-4d8d-b505-24a368f8c390" />
-<img width="1168" height="784" alt="1000021439" src="https://github.com/user-attachments/assets/0878797e-a2b0-4cd5-9821-a641be0fe66d" />
-<img width="1536" height="1024" alt="1000021451" src="https://github.com/user-attachments/assets/f301e49c-f0a5-4fb1-bd6e-5b7108db52bd" />
+<img width="1536" height="1024" alt="1000021451" src="https://github.com/user-attachments/assets/c0783871-9fc3-4794-8ff5-1cc3a6895427" />
+<img width="1168" height="784" alt="1000021439" src="https://github.com/user-attachments/assets/43432e14-6b14-4615-b0e5-8d442045cb67" />
+<img width="1168" height="784" alt="1000021438" src="https://github.com/user-attachments/assets/50b719b4-c399-45f7-9f6f-6e063b20ee65" />
+<img width="1256" height="1204" alt="1000021437" src="https://github.com/user-attachments/assets/c098ec09-49d2-427a-84d5-48200b316285" />
+<
 \documentclass[aps,prx,twocolumn,superscriptaddress]{revtex4-2}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb,amsfonts,graphicx}
