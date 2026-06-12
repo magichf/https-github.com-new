@@ -1,3 +1,6 @@
+<img width="1168" height="784" alt="1000021438" src="https://github.com/user-attachments/assets/c9d5cd9b-0a61-4d8d-b505-24a368f8c390" />
+<img width="1168" height="784" alt="1000021439" src="https://github.com/user-attachments/assets/0878797e-a2b0-4cd5-9821-a641be0fe66d" />
+<img width="1536" height="1024" alt="1000021451" src="https://github.com/user-attachments/assets/f301e49c-f0a5-4fb1-bd6e-5b7108db52bd" />
 \documentclass[aps,prx,twocolumn,superscriptaddress]{revtex4-2}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amssymb,amsfonts,graphicx}
